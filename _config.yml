@@ -10,8 +10,8 @@ title: Kaiqi's blog
 email: onya321800@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   my programming projects
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/kaiqi" # the subpath of your site, e.g. /blog
+url: "https://kaiqi-eng.github.io" # the base hostname & protocol for your site
 github_username:  kaiqi
 
 # Build settings
